@@ -1,0 +1,6 @@
+{
+  "name": "The Biscuit Plug",
+  "description": "A playful, mobile-first e-commerce web application for a Port Elizabeth (Gqeberha), South Africa home baking business featuring handcrafted cookies, custom message biscuits, meme content, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
